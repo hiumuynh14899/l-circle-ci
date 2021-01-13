@@ -40,7 +40,7 @@ $CountAccount = get_Count_Account();
                     <div class="navbar-collapse collapse" id="menu">
                         <ul class="nav navbar-nav navbar-left">
                             <li>
-                                <button type="button" class="btn-group w-head-style-home"><a href="index.php"><i>TTrang chủ</i></a></button>
+                                <button type="button" class="btn-group w-head-style-home"><a href="index.php"><i>Trang chủ</i></a></button>
                             </li>
                             <li class="w-head-menu">
                                 <div class="btn-group">
